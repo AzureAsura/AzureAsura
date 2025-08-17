@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Yokoso, watashi no GitHub Repository  
 
-<!--
-**AzureAsura/AzureAsura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *“The road to becoming a true Web3 developer is built with discipline, patience, and an unshakable will.”*  
 
-Here are some ideas to get you started:
+🌍 Based in **Bali**  
+🎓 A student locked in on the path to becoming a **future Web3 Developer**  
+💻 Currently focusing on **Front-End Development**  
+✨ Anime enthusiast – my favorite character is **Sōsuke Aizen** (Bleach)  
+⚡ Striving to become as calculated and unstoppable as him  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack (so far...)
+- **Languages & Markup**: HTML, CSS, JavaScript  
+- **Frameworks & Tools**: Bootstrap, jQuery, Tailwind, React  
+
+---
+
+## 📌 Goals
+- 🔒 Stay locked-in on mastering **Front-End** before diving deeper into **Web3**  
+- 🧩 Build projects that mix creativity, anime vibes, and cutting-edge tech  
+- 🌌 Transition from student → professional **Web3 developer**  
+
+---
+
+## 📫 Connect with me
+- Instagram: [@mdsuraa_](https://instagram.com/mdsuraa_)  
+- X (Twitter): [@surazsuraa](https://x.com/surazsuraa)  
+
+---
+
+## 🖤 Vibes
+
+"Those who stand in my way shall witness true evolution."
+
+
+---
+
+![Matrix Code](https://i.gifer.com/7VE.gif)  
+*(Locked-in. Focused. Becoming unstoppable.)*

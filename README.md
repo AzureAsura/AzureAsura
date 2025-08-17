@@ -1,4 +1,4 @@
-# 👋 Yokoso, watashi no GitHub Repository  
+# Yokoso, watashi no GitHub Repository  
 
 > *“The road to becoming a true Web3 developer is built with discipline, patience, and an unshakable will.”*  
 

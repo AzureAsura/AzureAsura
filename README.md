@@ -1,4 +1,4 @@
-# Yokoso, watashi no GitHub Repository  
+# Hey, just a student locked-in on the path to Web3
 
 > *“The road to becoming a true Web3 developer is built with discipline, patience, and an unshakable will.”*  
 

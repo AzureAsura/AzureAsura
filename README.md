@@ -29,12 +29,3 @@
 
 ---
 
-## 🖤 Vibes
-
-"Those who stand in my way shall witness true evolution."
-
-
----
-
-![Matrix Code](https://i.gifer.com/7VE.gif)  
-*(Locked-in. Focused. Becoming unstoppable.)*

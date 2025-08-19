@@ -12,14 +12,14 @@
 
 ## 🛠 Tech Stack (so far...)
 - **Languages & Markup**: HTML, CSS, JavaScript  
-- **Frameworks & Tools**: Bootstrap, jQuery, Tailwind, React  
+- **Frameworks & Tools**: Bootstrap, jQuery, Tailwind, React 
 
 ---
 
 ## 📌 Goals
 - 🔒 Stay locked-in on mastering **Front-End** before diving deeper into **Web3**  
 - 🧩 Build projects that mix creativity, anime vibes, and cutting-edge tech  
-- 🌌 Transition from student → professional **Web3 developer**  
+- 🌌 Transition from student → professional **Web3 develope**  
 
 ---
 

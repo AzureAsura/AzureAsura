@@ -19,7 +19,7 @@
 ## 📌 Goals
 - 🔒 Stay locked-in on mastering **Front-End** before diving deeper into **Web3**  
 - 🧩 Build projects that mix creativity, anime vibes, and cutting-edge tech  
-- 🌌 Transition from student → professional **Web3 develope**  
+- 🌌 Transition from student → professional **Web3 developer**  
 
 ---
 

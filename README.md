@@ -6,7 +6,7 @@
 🎓 A student locked in on the path to becoming a **future Web3 Developer**  
 💻 Currently focusing on **Front-End Development**  
 ✨ Anime enthusiast – my favorite character is **Sōsuke Aizen** (Bleach)  
-⚡ Striving to become as calculated and unstoppable as him
+⚡ Striving to become as calculated and unstoppable as hi
 
 ---
 

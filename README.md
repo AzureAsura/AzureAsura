@@ -11,7 +11,7 @@
 ---
 
 ## 🛠 Tech Stack (so far...)
-- **Languages & Markup**: HTML, CSS, JavaScript  
+- **Languages & Markup**: HTML, CSS, JavaScript, TypeScript  
 - **Frameworks & Tools**: Bootstrap, jQuery, Tailwind, React 
 
 ---

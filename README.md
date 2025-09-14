@@ -5,8 +5,6 @@
 🌍 Based in **Bali**  
 🎓 A student locked in on the path to becoming a **future Web3 Developer**  
 💻 Currently focusing on **Front-End Development**  
-✨ Anime enthusiast – my favorite character is **Sōsuke Aizen** (Bleach)  
-⚡ Striving to become as calculated and unstoppable as him
 
 ---
 
@@ -18,7 +16,7 @@
 
 ## 📌 Goals
 - 🔒 Stay locked-in on mastering **Front-End** before diving deeper into **Web3**  
-- 🧩 Build projects that mix creativity, anime vibes, and cutting-edge tech  
+- 🧩 Build projects that mix creativity, and cutting-edge tech  
 - 🌌 Transition from student → professional **Web3 developer**  
 
 ---

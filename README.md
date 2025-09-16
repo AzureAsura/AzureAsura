@@ -9,8 +9,32 @@
 ---
 
 ## 🛠 Tech Stack (so far...)
-- **Languages & Markup**: HTML, CSS, JavaScript, TypeScript  
-- **Frameworks & Tools**: Bootstrap, jQuery, Tailwind, React, Next Js 
+- **Languages & Markup**: HTML, CSS, JavaScript, TypeScript
+
+  <div align="center mt-4">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+</div>
+
+- **Frameworks & Tools**: Bootstrap, jQuery, Tailwind, React, Next Js
+  
+  <div align="center mt-4">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+</div>
 
 ---
 
@@ -21,9 +45,9 @@
 
 ---
 
-## 📫 Connect with me
-- Instagram: [@mdsuraa_](https://instagram.com/mdsuraa_)  
-- X (Twitter): [@surazsuraa](https://x.com/surazsuraa)  
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzureAsura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 

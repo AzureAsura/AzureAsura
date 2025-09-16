@@ -21,9 +21,12 @@
 
 ---
 
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzureAsura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://media1.tenor.com/m/wDzXv6-YAbUAAAAd/jujutsu-kaisen-gojo-satoru.gif" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzureAsura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph" />
 </div>
+
+
 
 ---
 

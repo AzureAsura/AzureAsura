@@ -21,7 +21,7 @@
 
 ---
 
-<div align="center">
+<div align="start">
   <!-- Streak graph -->
   <img src="https://streak-stats.demolab.com?user=AzureAsura&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <!-- Languages graph -->

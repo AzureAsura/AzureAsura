@@ -11,6 +11,7 @@
 ## 🛠 Tech Stack (so far...)
 - **Languages & Markup**: HTML, CSS, JavaScript, TypeScript, PHP
 - **Frameworks & Tools**: Bootstrap, jQuery, Tailwind, React, Next Js
+- **Database**: Mysql, MongoDB, Postgresql
   
 ---
 

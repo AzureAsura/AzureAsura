@@ -1,9 +1,9 @@
-# Hi, I’m locked in, no way out until Web3 🔒🌐
+# Hi there, I’m locked in🔒🌐
 
-> *“The road to becoming a true Web3 developer is built with discipline, patience, and an unshakable will.”*  
+> *“The road to becoming a true Software Engineer is built with discipline, patience, and an unshakable will.”*  
 
 🌍 Based in **Bali**  
-🎓 A student locked in on the path to becoming a **future Web3 Developer**  
+🎓 A student locked in on the path to becoming a **future Fullstack Developer**  
 💻 Currently focusing on **Front-End Development**  
 
 ---

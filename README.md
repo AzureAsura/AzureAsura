@@ -76,12 +76,16 @@ Solidity for smart contract development, and AI engineering fundamentals.
 ---
 
 <div align="center">
-<table>
-<tr>
-<td><img src="https://streak-stats.demolab.com/?user=AzureAsura&theme=dark&hide_border=false" alt="AzureAsura's Streak Stats" /></td>
-<td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AzureAsura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="AzureAsura's Top Languages" /></td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://streak-stats.demolab.com/?user=AzureAsura&theme=dark&hide_border=false" alt="AzureAsura's Streak Stats" height="165" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AzureAsura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="AzureAsura's Top Languages" height="165" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

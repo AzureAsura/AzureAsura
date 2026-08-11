@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a Fullstack Web Developer focused on building scalable and real-world web applications. My strength is on the frontend side, translating design into clean, responsive interfaces, and connecting that seamlessly to the backend: API integration, caching strategies, authentication with NextAuth.js, and performance optimization.
+I am a Fullstack Web Developer focused on building scalable and real-world web applications. My strength is on the frontend side, translating design into clean, responsive interfaces, and connecting that seamlessly to the backend: API integration, caching strategies, authentication and performance optimization.
 
 On the backend, I work with Next.js for server-side rendering and Express for standalone APIs, with PostgreSQL through Prisma and MongoDB for data. Right now I'm deepening my knowledge of Solidity for smart contract development while also starting to learn AI engineering.
 

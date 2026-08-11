@@ -42,6 +42,7 @@ On the backend, I work with Next.js for server-side rendering and Express for st
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
 </p>
+
 **Also comfortable with, used on smaller or past projects**
 
 <p align="left">
@@ -60,11 +61,15 @@ On the backend, I work with Next.js for server-side rendering and Express for st
 **Currently learning**
 
 <p align="left">
+  <!-- Web3 / Low-Level Systems -->
   <img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50" height="50"/>
   <img src="https://api.iconify.design/skill-icons:solidity.svg" alt="solidity" width="50" height="50"/>
+  
+  <!-- AI / Machine Learning Stack -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
 </p>
-
-Solidity for smart contract development, and AI engineering fundamentals.
 
 ---
 
